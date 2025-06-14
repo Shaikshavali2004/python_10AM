@@ -1,0 +1,1 @@
+print(list(map(lambda price:price+1,[99,199,299,399,499])))
